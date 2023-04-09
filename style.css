@@ -1,0 +1,48 @@
+body {
+    background-color: #abdad1;
+}
+
+.title {
+    text-align: center;
+    font-size: 34px;
+}
+
+.boardWrapper {
+    background-color: white;
+    padding: 20px;
+    max-width: 1000px;
+    margin: 0 auto;
+    border: 1px solid #faeec6;
+    margin-bottom: 20px;
+}
+
+section {
+    padding: 0px 10px;
+}
+
+section .username {
+    color: #f4a460 !important;
+    font-weight: 700;
+}
+
+section .nameArea {
+    display: flex;
+    align-items: center;
+    margin-bottom: -14px;
+}
+
+section .comment {
+    margin-top: 0;
+    margin-left: 20px;
+}
+
+.formWrapper {
+    padding: 16px;
+    margin-left: 20px;
+}
+
+.commentTextArea {
+    margin-top: 10px;
+    width: 500px;
+    height: 90px;
+}
